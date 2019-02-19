@@ -2,6 +2,6 @@
 
 This is a repository to test for permission issues using snakemake on Euler.
 
-## Run it
+## Run it on Euler
 
-    snakemake --use-conda
+    snakemake --profile config/euler
